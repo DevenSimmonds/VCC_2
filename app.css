@@ -4,9 +4,8 @@ body {
   margin: 0;
   padding: 0; 
 }
-
 header {
-  background: #222;
+  background: #000000;
   color: #fff;
   padding: 20px;
   text-align: center;
@@ -66,7 +65,7 @@ main{
   margin: 20px auto;
 }
 h2{
-  color: #0077b6;
+  color: #ffffff;
 }
 p {
   line-height: 1.6;
